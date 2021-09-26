@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/hibernatejar/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/hibernatejar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/hibernatejar/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/hibernatejar/hibernate-commons-annotations-5.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/hibernatejar/hibernate-core-5.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/hibernatejar/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/hibernatejar/jandex-1.2.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/hibernatejar/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/hibernatejar/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/hibernatejar/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/otherJar/activation.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/otherJar/javax.xml.bind.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/otherJar/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/otherJar/jaxb-osgi-2.4.0-b180830.0438.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/otherJar/jsp-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/otherJar/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/otherJar/jstl-standard.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/otherJar/jta-1_1.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/otherJar/log4j-api-2.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/otherJar/log4j-core-2.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/otherJar/mysql-connector-java-8.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/otherJar/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/caltech/Phase2/otherJar/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
